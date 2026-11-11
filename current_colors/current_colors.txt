@@ -1,0 +1,9 @@
+﻿upper_color = 130, 255, 255
+lower_color = 90, 80, 30
+
+
+upper_color = 13, 255, 255
+lower_color = 8, 100, 0
+
+upper_color = 149, 255, 255
+lower_color = 140, 118, 15
